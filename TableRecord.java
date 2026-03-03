@@ -85,3 +85,4 @@ public class TableRecord extends JFrame { // Fixed to match your file name
         }
     }
 }
+
